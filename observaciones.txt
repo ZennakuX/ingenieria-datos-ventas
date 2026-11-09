@@ -1,0 +1,2 @@
+Observaciones del análisis de ventas
+Se agregó la fecha de registro a cada venta.
