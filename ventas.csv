@@ -1,3 +1,3 @@
-producto,cantidad,precio
-teclado,5,80000
-monitor,2,450000
+producto,cantidad,precio,fecha_registro
+teclado,5,80000,2026-11-08
+monitor,2,450000,2026-11-08
