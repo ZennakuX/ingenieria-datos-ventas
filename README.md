@@ -1,3 +1,3 @@
 # Proyecto de Ingeniería de Datos
 
-Repositorio de prácticas para aprender Git y GitHub.
+Repositorio remoto: prácticas de Git y GitHub.
