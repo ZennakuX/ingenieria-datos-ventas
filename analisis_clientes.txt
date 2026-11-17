@@ -1,0 +1,3 @@
+Análisis de clientes
+Objetivo: estudiar los registros de clientes.
+Estado: en desarrollo
